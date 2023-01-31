@@ -13,6 +13,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
+  ![Snake animation](https://github.com/humbertodlacerda/humbertodlacerda/blog/output/github-contribution-grid-snake.svg)
 <div>
   <img align="center" alt="bravo" src="http://www.animated-gifs.fr/category_cartoons/johnny-bravo-1/johnny-bravo-0002.gif">
 </div>
